@@ -1,0 +1,502 @@
+2023-07-23 23:07:272 INFO  HomePage :47 - Enter job title : Tester
+2023-07-23 23:07:555 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:179 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-23 23:07:857 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (e085b3e31bb81d2d83b8ad66b1164cf1)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-23 23:07:90 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-23 23:07:293 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-23 23:07:487 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-23 23:07:811 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-23 23:07:520 INFO  HomePage :47 - Enter job title : QA Tester
+2023-07-23 23:07:750 INFO  HomePage :51 - Enter job location : Pinner
+2023-07-23 23:07:21 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-23 23:07:551 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (515df4bf9db3032c32580027db209197)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-23 23:07:752 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-23 23:07:983 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-23 23:07:166 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-23 23:07:550 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-23 23:07:973 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-23 23:07:284 INFO  HomePage :51 - Enter job location : London
+2023-07-23 23:07:138 INFO  HomePage :47 - Enter job title : QA Lead
+2023-07-23 23:07:467 INFO  HomePage :51 - Enter job location : Victoria
+2023-07-23 23:07:56 INFO  HomePage :47 - Enter job title : QA Engineer
+2023-07-23 23:07:357 INFO  HomePage :51 - Enter job location : Central London
+2023-07-23 23:07:129 INFO  HomePage :47 - Enter job title : QA Test Lead
+2023-07-23 23:07:411 INFO  HomePage :51 - Enter job location : Central London
+2023-07-23 23:07:103 INFO  HomePage :47 - Enter job title : Tester
+2023-07-23 23:07:367 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:788 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-23 23:07:611 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (a98b10ef6cbd9987065133e1215e85de)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-23 23:07:798 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-23 23:07:82 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-23 23:07:316 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-23 23:07:655 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-23 23:07:551 INFO  HomePage :47 - Enter job title : QA Tester
+2023-07-23 23:07:779 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:143 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-23 23:07:713 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (2b94933e5256d2b8e3107d61fb562445)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-23 23:07:14 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-23 23:07:360 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-23 23:07:594 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-23 23:07:346 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-23 23:07:175 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-23 23:07:503 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:220 INFO  HomePage :47 - Enter job title : QA Lead
+2023-07-23 23:07:852 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:105 INFO  HomePage :47 - Enter job title : QA Engineer
+2023-07-23 23:07:386 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-23 23:07:344 INFO  HomePage :47 - Enter job title : QA Test Lead
+2023-07-23 23:07:652 INFO  HomePage :51 - Enter job location : Harrow
+2023-07-24 00:07:993 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:305 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:721 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 00:07:348 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (f847136eeb21049bfd74c4cba99d722d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 00:07:617 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 00:07:860 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 00:07:62 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 00:07:391 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 00:07:135 INFO  HomePage :47 - Enter job title : QA Tester
+2023-07-24 00:07:475 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:949 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 00:07:897 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (7418753f1cb9c4495fd0b591a9039846)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 00:07:165 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 00:07:610 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 00:07:870 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 00:07:334 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 00:07:660 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 00:07:406 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:62 INFO  HomePage :47 - Enter job title : QA Lead
+2023-07-24 00:07:565 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:674 INFO  HomePage :47 - Enter job title : QA Engineer
+2023-07-24 00:07:87 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:399 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:948 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:648 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 00:07:702 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (fadcc19ce67ac15a4cb19acd8cb979e6)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 00:07:14 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 00:07:81 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 00:07:381 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 00:07:152 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 00:07:418 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:941 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:247 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 00:07:908 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (039ba468274b0e88748f1ba13ba97de5)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 00:07:170 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 00:07:422 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 00:07:633 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 00:07:69 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 00:07:834 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 00:07:308 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:118 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:506 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:761 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:166 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 00:07:757 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 00:07:108 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:376 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:809 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:328 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 02:07:13 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (6c93b1aa8857f2f5afbb56d96797ac9d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:320 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 02:07:595 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 02:07:837 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:241 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:931 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:340 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:654 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 02:07:255 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (f51c3a341c4440354a5f50d008af92b8)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:501 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 02:07:786 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 02:07:33 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:469 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:170 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 02:07:623 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:435 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:825 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:929 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:244 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:809 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:222 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:18 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:440 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:951 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 02:07:495 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (72e5b60df1de374f908700f9e6fdc4f5)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:744 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 02:07:994 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 02:07:347 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:797 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:807 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:226 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:545 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 02:07:175 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (0dd0be91b336189176632f2961c8bf9c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:429 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 02:07:692 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 02:07:912 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:318 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:523 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 02:07:18 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:115 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 02:07:499 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:967 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 02:07:536 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (a63a29135f3caa2c84fbb66bc1faa9ee)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:822 INFO  HomePage :63 - Enter minimum salary amount : 45000
+2023-07-24 02:07:88 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 02:07:324 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:694 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:268 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:620 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:548 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:907 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:143 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:492 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:864 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:278 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:827 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 02:07:269 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (36e9ca2e00737ca8c1ebd4f10351c273)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:546 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 02:07:839 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 02:07:81 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:459 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:398 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:813 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:160 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 02:07:436 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (ab9f4d3bdd9eddbc1f343b19c851071d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:695 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 02:07:65 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 02:07:371 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:49 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:660 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 02:07:128 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:661 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 02:07:351 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (8625480d123db59a6a3d95c1c47a6145)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:607 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 02:07:86 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 02:07:361 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:818 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:810 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 02:07:197 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:676 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 02:07:747 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (e201cd67fa841bbf8a05f0eb08f91dd1)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:49 INFO  HomePage :63 - Enter minimum salary amount : 45000
+2023-07-24 02:07:324 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 02:07:635 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:94 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:776 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:259 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:749 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 02:07:490 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (3ef9dcbc570cb1f7b5e0fe3219a99a22)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:716 INFO  HomePage :63 - Enter minimum salary amount : 65000
+2023-07-24 02:07:56 INFO  HomePage :67 - Enter maximum salary amount : 900000
+2023-07-24 02:07:437 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:866 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:258 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:736 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:398 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 02:07:122 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (5f5f2391cbac8a2251fa8d2a3e1b0d36)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:364 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 02:07:625 INFO  HomePage :67 - Enter maximum salary amount : 950000
+2023-07-24 02:07:937 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:326 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 02:07:857 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 02:07:255 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 02:07:540 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 02:07:403 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (9ac12c417628d882efe5f080ce355320)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 02:07:673 INFO  HomePage :63 - Enter minimum salary amount : 55000
+2023-07-24 02:07:948 INFO  HomePage :67 - Enter maximum salary amount : 850000
+2023-07-24 02:07:200 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 02:07:594 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:835 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:270 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:779 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:347 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (983e41d956c3785d48e60615064b3a70)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:597 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:951 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:202 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:587 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:248 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:637 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:975 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:677 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (dac48c848e6faca65b8411287f2bae99)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:936 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:199 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:458 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:943 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:755 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:937 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:499 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:277 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (15f5d0fa762f98ac94d7ea0cd1a1fa11)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:574 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:844 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:248 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:33 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:914 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:397 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:107 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:677 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:105 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:105 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:49 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (02bbe8fe51c28e05fba66307ff5304d4)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:333 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:680 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:05 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:417 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:819 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:253 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:584 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:166 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (c9b3e5b0ff06558b194bd72833688d2c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:386 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:635 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:859 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:297 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:478 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:38 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:809 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:576 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (364bcf8e68e7841756a4b15e9734ef33)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:995 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:353 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:721 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:261 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:505 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:914 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:404 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:974 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (4792702e5fb7460bcfdfb5928efc186c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:211 INFO  HomePage :63 - Enter minimum salary amount : 45000
+2023-07-24 03:07:447 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:676 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:140 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:708 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:104 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:587 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:138 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (90af400a332728fef6936e1cd17dc587)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:659 INFO  HomePage :63 - Enter minimum salary amount : 65000
+2023-07-24 03:07:998 INFO  HomePage :67 - Enter maximum salary amount : 900000
+2023-07-24 03:07:219 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:541 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:720 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:264 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:780 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:373 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (1e055f515808e2a35ecc7ec10218b83c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:745 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:20 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:301 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:710 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:91 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:620 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:975 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:731 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (6895ecb9a8e98256165d2a6d567b2e2a)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:26 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:329 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:591 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:119 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:915 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:341 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:899 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:493 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (7b90241d06164ac9262dbbfdb2cc880e)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:772 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:53 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:321 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:869 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:591 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:872 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:341 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:507 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:160 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:910 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:209 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:600 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:740 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:588 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (55ddd3a41fd1bf1bbf22637c89c7c7aa)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:811 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:61 INFO  HomePage :67 - Enter maximum salary amount : 950000
+2023-07-24 03:07:362 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:712 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:409 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:896 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:237 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:934 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (26e5d0d507616c57e7097079844ba236)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:286 INFO  HomePage :63 - Enter minimum salary amount : 55000
+2023-07-24 03:07:662 INFO  HomePage :67 - Enter maximum salary amount : 850000
+2023-07-24 03:07:23 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:514 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:753 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:152 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:702 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:272 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (09d5facbdfee45c73be162174a7556b2)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:618 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:894 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:159 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:564 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:910 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:340 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:677 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:269 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (0ed4874d94d0710dce8cd9c12070d946)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:521 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:777 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:15 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:532 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:789 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:275 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:838 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:450 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (66df96b50afbffeb90b2ec323dc3c2ea)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:686 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:938 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:190 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:674 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:401 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:821 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:349 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:310 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (04df28ed1e53d18b5aef55d7c1ef8f04)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:726 INFO  HomePage :63 - Enter minimum salary amount : 45000
+2023-07-24 03:07:84 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:384 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:859 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:833 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:366 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:18 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:641 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:231 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:810 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:396 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (194fa5db19a7301f85a1e22563e02428)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:693 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:33 INFO  HomePage :67 - Enter maximum salary amount : 950000
+2023-07-24 03:07:275 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:746 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:710 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:201 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:503 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:297 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (0c95fab0d27cb5d62368da9ba667c91d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:568 INFO  HomePage :63 - Enter minimum salary amount : 55000
+2023-07-24 03:07:838 INFO  HomePage :67 - Enter maximum salary amount : 850000
+2023-07-24 03:07:149 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:649 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:770 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:190 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:717 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:302 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (095f91393efe3b478561bb38aa26043f)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:564 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:936 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:176 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:569 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:936 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:320 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:642 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:269 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (f30b82759b87b9697739acb651196799)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:519 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:772 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:11 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:427 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:73 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:411 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:888 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:524 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (3343c92fbefa20f093b44e9e27cb64e0)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:781 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:37 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:257 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:611 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:683 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:633 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:717 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:445 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (6fc3dc409ad9446aa24353c9b6ce8f8f)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:914 INFO  HomePage :63 - Enter minimum salary amount : 45000
+2023-07-24 03:07:426 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:799 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:259 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:850 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:260 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:761 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:864 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (76d1fa7e928811c2d2cc221ce62bf28c)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:136 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:432 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:780 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:202 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:685 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:83 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:463 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:374 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (62d7978bd937f6506a38a7739f5fddf0)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:913 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:176 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:488 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:28 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:394 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:831 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:406 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:797 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (81bb075fcebc866fffb7aa413995e2ef)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:27 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:264 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:488 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:854 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:958 INFO  HomePage :47 - Enter job title : Automation Engineer
+2023-07-24 03:07:450 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:44 INFO  HomePage :55 - Select distance : 2 miles
+2023-07-24 03:07:911 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:168 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:188 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:265 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:925 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:372 INFO  HomePage :55 - Select distance : 10 miles
+2023-07-24 03:07:739 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:354 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:640 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:262 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:963 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:517 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:654 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (5d21e349e9c56c16f8e49463d26ab7ad)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:896 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:192 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:551 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:274 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:620 INFO  HomePage :20 - Result verified : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='keywords']'
+2023-07-24 03:07:361 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:736 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:276 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:825 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (71e4481c8e2db972deed57b6c70768f6)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:77 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:322 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:582 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:967 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:650 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:645 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:912 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:748 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (76adfb2945945a8b11e090eea6cde054)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:307 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:19 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:612 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:527 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:701 INFO  HomePage :20 - Result verified : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='keywords']'
+2023-07-24 03:07:99 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:563 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:878 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:608 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (796b46e69e7d9ce0fc78d2557d118f45)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:861 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:146 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:359 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:880 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:360 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:523 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:126 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:04 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (43f82961d47098ab2bbd8786717c69af)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:276 INFO  HomePage :63 - Enter minimum salary amount : 35000
+2023-07-24 03:07:659 INFO  HomePage :67 - Enter maximum salary amount : 400000
+2023-07-24 03:07:112 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:754 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:678 INFO  HomePage :20 - Result verified : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='keywords']'
+2023-07-24 03:07:480 INFO  HomePage :20 - Result verified : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='keywords']'
+2023-07-24 03:07:614 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:143 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:692 INFO  HomePage :55 - Select distance : 5 miles
+2023-07-24 03:07:299 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (71dee1c3c0d8e4ced857807fa87f5196)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:565 INFO  HomePage :63 - Enter minimum salary amount : 30000
+2023-07-24 03:07:941 INFO  HomePage :67 - Enter maximum salary amount : 500000
+2023-07-24 03:07:204 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:600 INFO  HomePage :75 - Click on job type : Permanent
+2023-07-24 03:07:604 INFO  HomePage :20 - Result verified : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Permanent jobs in Harrow')]'
+2023-07-24 03:07:943 INFO  HomePage :47 - Enter job title : Tester
+2023-07-24 03:07:502 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:819 INFO  HomePage :55 - Select distance : 15 miles
+2023-07-24 03:07:461 INFO  HomePage :47 - Enter job title : Automation Tester
+2023-07-24 03:07:69 INFO  HomePage :51 - Enter job location : Harrow, Greater London
+2023-07-24 03:07:858 INFO  HomePage :55 - Select distance : 7 miles
+2023-07-24 03:07:747 INFO  HomePage :59 - Click on search option : [[ChromeDriver: chrome on windows (38935a3874a07408fb64594b93184196)] -> xpath: //button[@id='toggle-hp-search']]
+2023-07-24 03:07:58 INFO  HomePage :63 - Enter minimum salary amount : 40000
+2023-07-24 03:07:419 INFO  HomePage :67 - Enter maximum salary amount : 300000
+2023-07-24 03:07:665 INFO  HomePage :71 - Click on salary type : Per annum
+2023-07-24 03:07:119 INFO  HomePage :75 - Click on job type : Permanent
